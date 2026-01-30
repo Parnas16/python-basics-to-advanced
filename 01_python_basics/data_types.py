@@ -48,3 +48,7 @@ print("Student name:", student["name"])
 # 8. Type checking
 print("Type of integer_num:", type(integer_num))
 print("Type of fruits:", type(fruits))
+
+
+
+python data_types.py
