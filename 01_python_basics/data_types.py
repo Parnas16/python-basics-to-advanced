@@ -51,4 +51,21 @@ print("Type of fruits:", type(fruits))
 
 
 
+#Output:
+# Integer: 10
+# Float: 3.14
+# Complex: (2+3j)
+# Name: Parna
+# Greeting: Hello, World!
+# Is student: True
+# Has passed: False
+# Fruits list: ['apple', 'banana', 'mango']
+# First fruit: apple
+# Coordinates tuple: (10, 20)
+# Unique numbers set: {1, 2, 3, 4}
+# Student dictionary: {'name': 'Parna', 'age': 20, 'branch': 'AIML'}
+# Student name: Parna
+# Type of integer_num: <class 'int'>
+# Type of fruits: <class 'list'>
+
 
