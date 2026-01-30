@@ -51,4 +51,4 @@ print("Type of fruits:", type(fruits))
 
 
 
-python data_types.py
+
