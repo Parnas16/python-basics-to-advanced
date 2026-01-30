@@ -8,3 +8,8 @@ print("Name:", name)
 print("Age:", age)
 print("Student:", is_student)
 
+
+# Output:
+# Name: Parna
+# Age: 20
+# Student: True
