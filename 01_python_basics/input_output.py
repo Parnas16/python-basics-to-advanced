@@ -21,3 +21,20 @@ b = int(b)
 print("Sum:", a + b)
 print("Difference:", a - b)
 print("Product:", a * b)
+
+
+
+
+# Output:
+# Enter your name: Parna
+# Enter your age: 20
+
+# --- User Details ---
+# Name: Parna
+# Age: 20
+# Age after 1 year: 21
+
+# Enter two numbers separated by space: 2 16
+# Sum: 18
+# Difference: -14
+# Product: 32
