@@ -53,3 +53,30 @@ num1 = int(input("Enter a number: "))
 num2 = float(input("Enter a decimal number: "))
 
 print("Sum:", num1 + num2)
+
+
+
+# Output:
+# String value: 100
+# After converting to int: 100
+# Type: <class 'int'>
+# ------------------------------
+# Integer value: 25
+# After converting to float: 25.0
+# Type: <class 'float'>
+# ------------------------------
+# Float value: 99.99
+# After converting to int: 99
+# ------------------------------
+# Integer value: 20
+# After converting to string: 20
+# Type: <class 'str'>
+# ------------------------------
+# bool(1): True
+# bool(0): False
+# bool('Hello'): True
+# bool(''): False
+# ------------------------------
+# Enter a number: 2
+# Enter a decimal number: 2.34
+# Sum: 4.34
