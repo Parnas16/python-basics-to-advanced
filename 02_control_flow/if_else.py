@@ -30,3 +30,15 @@ if age >= 18:
 else:
     print("You are not eligible to vote")
 
+
+
+# Output:
+# Enter a number: 4
+# The number is Positive
+# ------------------------------
+# Enter another number: 0
+# Even number
+# ------------------------------
+# Enter your age: 19
+# You are eligible to vote
+
