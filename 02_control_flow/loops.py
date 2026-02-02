@@ -40,3 +40,37 @@ for i in range(1, 6):
     if i == 3:
         continue
     print(i)
+
+
+Output:
+For Loop Example:
+1
+2
+3
+4
+5
+------------------------------
+Fruits List:
+apple
+banana
+mango
+------------------------------
+While Loop Example:
+5
+4
+3
+2
+1
+------------------------------
+Break Example:
+1
+2
+3
+4
+------------------------------
+Continue Example:
+1
+2
+4
+5
+
